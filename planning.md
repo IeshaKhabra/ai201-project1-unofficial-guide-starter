@@ -45,6 +45,8 @@ My domain is Golden Retriever characteristics. This knowledge is useful because 
 
 **Overlap:** 150 characters
 
+**Final Chunk Count:** 170 chunks
+
 **Reasoning:**
      Most of my documents are breed guides or advice articles with short sections about temperment, excercise, grooming, health, and family life. A 700 character chunk should capture one complete idea of friendliness or excercise needs without combining too many unrelated topics. 150 character overlap helps preserve context when an important point continues across paragraph/section boundaries
 
